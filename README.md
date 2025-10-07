@@ -1,5 +1,8 @@
 # TACT language compiler
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributing](https://img.shields.io/badge/Contributing-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 A next-gen smart contract language for TON.
 
 * [Documentation](https://docs.tact-lang.org)
@@ -28,7 +31,7 @@ TACT is distributed via NPM, to install tact into your project, you need:
 yarn add @tact-lang/compiler
 ```
 
-TACT doesn't have development environment dependencies and has everything built in. TACT's stdlib also distributed together with a compiler.
+TACT doesn't require any separate development environment dependencies — everything is built in. The TACT standard library is also distributed together with the compiler.
 
 For Visual Studio Code syntax support, please download the [tact extension](https://marketplace.visualstudio.com/items?itemName=ton-community.tact-vscode).
 
